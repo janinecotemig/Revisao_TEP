@@ -1,0 +1,13 @@
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\obj\Debug\RevisãoTEP.csprojAssemblyReference.cache
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\obj\Debug\RevisãoTEP.csproj.GenerateResource.cache
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\obj\Debug\RevisãoTEP.csproj.CoreCompileInputs.cache
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercicio1.resources
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercicio3.resources
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercicio2.resources
+C:\Users\Marcelle Chaves\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercicio4.resources
